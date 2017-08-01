@@ -38,7 +38,7 @@ client.on('ready', () => {
 });
 client.on("guildMemberAdd", (member) => {
     console.log(`Nowy użytkownik "${member.user.username}" dołączył do "${member.guild.name}"` );
-    member.guild.defaultChannel.sendMessage(`**${member.user.username}** dołączył do najbardziej nieaktywnego nserwera świata - 134Chan!`);
+    member.guild.defaultChannel.sendMessage(`**${member.user.username}** dołączył do najbardziej nieaktywnego serwera świata - 134Chan!`);
 });
 client.on("guildMemberRemove", (member) => {
     console.log(`"${member.user.username}" wyszedl "${member.guild.name}"` );
