@@ -1,0 +1,10 @@
+{
+  "name": "Cortana",
+  "version": "0.0.3",
+  "main": "bot.js",
+  "license": "MIT",
+  "repository": "vistafan12/cortana",
+  "dependencies": {
+    "discord.js": "latest",
+  },
+}
