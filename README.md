@@ -1,5 +1,6 @@
+**THE PROJECT IS NOT LONGER DEVELOPED, AND THAT CODE IS OLD. USE IT FOR YOUR OWN RESPONSIBILITY!!**
 # Cortana
-**From May 2017 Cortana (on Discord) changed her name to Alice - <del>this source code is no longer developed.</del>
-you can still creating pull request.**
 
-The new code based on the new bot - Alice - is available on https://zxq.co/vistafan12/alicebot.
+That stupid bot that I created a year ago was to be the port of Cortana assistant.
+
+<DEL>The new code based on the new bot - Alice - is available on https://zxq.co/vistafan12/alicebot.</DEL>
